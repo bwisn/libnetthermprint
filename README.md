@@ -1,7 +1,7 @@
 # libnetthermprint
 
 ## What it is?
-libnetthermprint is a simple library which changes your thermal printer to networked thermal printer. Server will be provided soon!
+libnetthermprint is a simple library which changes your thermal printer to networked thermal printer. Server is available here: https://github.com/bwisn/netthermprint_server
 
 # Usage
 Import the library and libescpos into your project and declare functions with weak attribute.
